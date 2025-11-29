@@ -1,0 +1,8 @@
+{
+  "name": " Diz Aí*******",
+  "description": "Um assistente de leitura e escrita focado em acessibilidade para pessoas com dificuldades de leitura.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
